@@ -29,7 +29,7 @@ namespace Zyph {
     const std::string name     = "Zyph";
     const std::string handle   = "ZyphFX";
     const std::string location = "Netherlands 🇳🇱";
-    const std::string vibe     = "sometimes i code...";
+    const std::string vibe     = "I code iguess...";
 
     std::vector<std::string> languages = {
         "C++", "C", "Lua", "HTML"
@@ -38,7 +38,6 @@ namespace Zyph {
     std::vector<std::string> interests = {
         "ImGui / UI development",
         "Windows native APIs",
-        "Game modding & automation",
         "Learning by building"
     };
 }
@@ -69,25 +68,8 @@ namespace Zyph {
 </td>
 <td width="50%" valign="top">
 
-### 🟣 [Quick-C-script](https://github.com/ZyphFX/Quick-C-script)
-![C](https://img.shields.io/badge/C-Public-9C5BED?style=flat-square&logo=c&logoColor=white)
 
-> Quick scripting utility written in C.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 [MadCityZyphRob](https://github.com/ZyphFX/MadCityZyphRob)
-![Lua](https://img.shields.io/badge/Lua-Public-9C5BED?style=flat-square&logo=lua&logoColor=white)
-
-> A Mad City autorob script for Chapter 1 Season 4.
->
-> 🎮 Built for Roblox game automation — Lua scripting.
-
-</td>
-<td width="50%" valign="top">
 
 ### 🟣 [BetterfloatAddon](https://github.com/ZyphFX/BetterfloatAddon)
 ![Public](https://img.shields.io/badge/Public-Repo-9C5BED?style=flat-square)
