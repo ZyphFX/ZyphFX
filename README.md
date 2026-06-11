@@ -9,10 +9,11 @@
 ╚══════╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9C5BED&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Zyph;C%2B%2B+%2F+ImGui+Developer;Sometimes+I+code...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9C5BED&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Zyph;C%2B%2B+%2F+ImGui+Developer;Network+Engineering+Student;I+code+I+guess...)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/Location-Netherlands-9C5BED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft-Organisation-9C5BED?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Student-ICT%20%2F%20Networking-9C5BED?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </div>
 
@@ -29,15 +30,20 @@ namespace Zyph {
     const std::string name     = "Zyph";
     const std::string handle   = "ZyphFX";
     const std::string location = "Netherlands 🇳🇱";
-    const std::string vibe     = "I code iguess...";
+    const std::string vibe     = "I code I guess...";
 
-    std::vector<std::string> languages = {
-        "C++", "C", "Lua", "HTML"
+    std::vector<std::string> studying = {
+        "ICT Systems Administration",
+        "Network Engineering",
+        "Windows Server (AD, DNS, DHCP)",
+        "Linux (SSH, terminal workflows)",
+        "Cisco Networking (CCNA track)"
     };
 
-    std::vector<std::string> interests = {
+    std::vector<std::string> building = {
         "ImGui / UI development",
         "Windows native APIs",
+        "Game scripting & automation",
         "Learning by building"
     };
 }
@@ -68,9 +74,6 @@ namespace Zyph {
 </td>
 <td width="50%" valign="top">
 
-
-
-
 ### 🟣 [BetterfloatAddon](https://github.com/ZyphFX/BetterfloatAddon)
 ![Public](https://img.shields.io/badge/Public-Repo-9C5BED?style=flat-square)
 
@@ -99,13 +102,25 @@ namespace Zyph {
 
 ## ◈ Tech Stack
 
+**Development**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![ImGui](https://img.shields.io/badge/ImGui-9C5BED?style=for-the-badge&logoColor=white)
+
+**Networking & Systems**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+**Tools**
+
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![ImGui](https://img.shields.io/badge/ImGui-9C5BED?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -113,7 +128,18 @@ namespace Zyph {
 
 <div align="center">
 
-*— sometimes I code —*
+## ◈ Certifications
+
+![Cisco CCNA](https://img.shields.io/badge/Cisco_NetAcad-CCNA%3A_Intro_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Subnetting](https://img.shields.io/badge/Cisco_NetAcad-Subnetting_Mastery_(beta)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+*— I code I guess —*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZyphFX&color=9C5BED&style=flat-square&label=PROFILE+VIEWS)
 
