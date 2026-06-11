@@ -1,12 +1,14 @@
 <div align="center">
 
 ```
-███████╗██╗   ██╗██████╗ ██╗  ██╗
-╚══███╔╝╚██╗ ██╔╝██╔══██╗██║  ██║
-  ███╔╝  ╚████╔╝ ██████╔╝███████║
- ███╔╝    ╚██╔╝  ██╔═══╝ ██╔══██║
-███████╗   ██║   ██║     ██║  ██║
-╚══════╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝
+                                        
+▄▄▄▄▄▄▄▄▄ ▄▄▄   ▄▄▄ ▄▄▄▄▄▄▄   ▄▄▄   ▄▄▄ 
+▀▀▀▀▀████ ███   ███ ███▀▀███▄ ███   ███ 
+   ▄███▀  ▀███▄███▀ ███▄▄███▀ █████████ 
+ ▄███▀      ▀███▀   ███▀▀▀▀   ███▀▀▀███ 
+█████████    ███    ███       ███   ███ 
+                                        
+                                        
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9C5BED&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Zyph;C%2B%2B+%2F+ImGui+Developer;Network+Engineering+Student;I+code+I+guess...)](https://git.io/typing-svg)
